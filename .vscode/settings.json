@@ -1,0 +1,16 @@
+{
+    "editor.wordWrap": "on",
+	"editor.folding": false,
+	
+	"editor.glyphMargin": true,
+	"editor.fontSize": 17
+	,
+	"files.autoSave": "afterDelay",
+	"editor.fontFamily": "awesome 5 HTML,'Courier New', monospace ",
+	"editor.fontWeight": "600",
+	"editor.minimap.maxColumn": 5,
+	"editor.minimap.enabled": false,
+	"editor.minimap.renderCharacters": false,
+ "editor.wrappingIndent":"same",
+ "editor.insertSpaces": false
+}
